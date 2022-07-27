@@ -138,32 +138,32 @@ header {
         top: 4px;
         left: 2px;
         transform: translate(50%, 50%);
-        width: 12px;
+        width: 20px;
       }
 
       #icon-user {
-        top: 6px;
-        width: 14px;
+        top: 10px;
+        width: 20px;
       }
 
       #icon-mail {
         top: 8px;
-        width: 14px;
+        width: 20px;
       }
       #icon-state {
         top: 6px;
-        width: 14px;
+        width: 20px;
       }
 
       input {
-        padding: 10px 10px 10px 30px;
+        padding: 10px 10px 10px 40px;
         border-radius: 5px;
         border: solid 1px #cecece;
         width: 100%;
       }
 
       select {
-        padding: 10px 10px 10px 30px;
+        padding: 10px 10px 10px 40px;
         border-radius: 5px;
         border: solid 1px #cecece;
         width: 100%;
@@ -229,7 +229,7 @@ header {
   display: flex;
   justify-content: center;
   align-items: center;
-  max-width: 64rem;
+  max-width: 80rem;
   gap: 100px;
 
   .image-wrapper {
